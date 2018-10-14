@@ -1,3 +1,35 @@
+
+Skip to content
+
+    Pull requests
+    Issues
+    Marketplace
+    Explore
+
+    @olencjad
+
+2,705
+73,636
+
+    34,497
+
+github/gitignore
+Code
+Pull requests 174
+Projects 0
+Insights
+gitignore/Java.gitignore
+52d686b on Apr 12
+@oscarandreu oscarandreu Added NiFi .nar files
+@tcthien
+@sjwoodr
+@stevoisiak
+@fhemberger
+@oscarandreu
+@fboulay
+@cboutter
+@Bananeweizen
+24 lines (18 sloc) 278 Bytes
 # Compiled class file
 *.class
 
@@ -9,6 +41,7 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+.idea/*
 
 # Package Files #
 *.jar
@@ -18,6 +51,4 @@
 *.zip
 *.tar.gz
 *.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*.iml
